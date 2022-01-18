@@ -21,3 +21,4 @@ dmenu fuzzymatch
 
 dmenu fuzzyhighlight
 
+dmenu center
