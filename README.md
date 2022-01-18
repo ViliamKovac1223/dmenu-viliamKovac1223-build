@@ -13,7 +13,10 @@ sudo make clean install
 
 # patches
 dmenu border
+
 dmenu numbers
+
 dmenu fuzzymatch
+
 dmenu fuzzyhighlight
 
